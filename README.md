@@ -2,7 +2,7 @@
 
 Welcome to the Open Source Projects for Student Contribution repository! 🚀
 
-![_753587a3-a089-4bb0-bdec-dd3cbf0e3e63](https://github.com/ShubhamChoudharyShubh/Open-Source-Web-Dev-Projects/assets/96586771/702935d1-17c0-44dd-8570-20bffc8979f6)
+![Scala](https://github.com/ShubhamChoudharyShubh/Open-Source-Web-Dev-Projects/assets/96586771/3d994907-6287-4489-93c1-9676d4f8fa76)
 
 ## Introduction
 
